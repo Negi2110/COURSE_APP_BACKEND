@@ -16,8 +16,6 @@ Create, Read, Update, Delete (CRUD) operations for courses.
 
 Course categories and topics.
 
-
-
 Analytics endpoints.
 
 🛠️ Technologies Used
@@ -33,4 +31,3 @@ JWT (JSON Web Tokens): For secure user authentication.
 
 Dotenv: To manage environment variables.
 
-CORS: Middleware to enable Cross-Origin Resource Sharing.
