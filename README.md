@@ -16,33 +16,7 @@ Create, Read, Update, Delete (CRUD) operations for courses.
 
 Course categories and topics.
 
-Course content management (modules, lessons, resources).
 
-Enrollment System:
-
-Enroll students in courses.
-
-Track course progress.
-
-Payment Integration:
-
-Simulated or actual integration with a payment gateway (e.g., Stripe, PayPal - details to be added).
-
-Order and transaction tracking.
-
-Review and Rating System:
-
-Students can review and rate courses.
-
-Search & Filtering:
-
-Search courses by title, description, instructor, or category.
-
-Filter courses based on various criteria.
-
-Admin Panel (API support):
-
-Manage users, courses, and transactions.
 
 Analytics endpoints.
 
@@ -56,8 +30,6 @@ MongoDB: NoSQL database for storing course and user data.
 Mongoose: MongoDB object data modeling (ODM) for Node.js.
 
 JWT (JSON Web Tokens): For secure user authentication.
-
-Bcrypt.js: For password hashing.
 
 Dotenv: To manage environment variables.
 
